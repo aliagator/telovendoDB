@@ -136,7 +136,7 @@ INSERT INTO productos (id_producto, nombreProd, precio, Categoria, Proveedor, Co
   (7, 'Televisor AOC', 200000.00, 'Electrónica', 'AOC', 'Negro', 25),
   (8, 'Camiseta PSG', 150000.00, 'Ropa', 'Nike', 'Blanco', 80),
   (9, 'Televisor TCL', 300000.00, 'Electrónica', 'TCL', 'Negro', 25),
-  (10, 'Camiseta LA', 150000.00, 'Ropa', 'Nike', 'Blanco', 80),
+  (10, 'Camiseta LA', 150000.00, 'Ropa', 'Nike', 'Blanco', 80)
 ;
 
 INSERT INTO compraventa (id_producto, id_usuario, fecha_hora_ingreso) VALUES
